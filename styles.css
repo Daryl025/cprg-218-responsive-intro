@@ -11,10 +11,11 @@ body{
     /* any screen resolution from 0-500px*/
     body{
         background-color: red;
+        font-size: 130%;
     }
 @media screen and (max-width:400px){
     body{
         background-color: yellow;
         color: black;
     }
-} 
+}
